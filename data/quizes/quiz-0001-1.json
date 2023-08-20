@@ -1,0 +1,43 @@
+{
+  "title": "Grammar Quiz. Level A1",
+  "description": "This test estimates if your grammar level corresponds to A1 level. If you get 100% right answers it is higly likely you have A1 or higher in Grammar.",
+  "questions": [ 
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+          "I'm a doctor and my sister are a nurse.",
+          "I be a doctor and my sister are a nurse.",
+          "I am a doctor and my sister am a nurse."
+        ],
+        "correctAnswer": "I'm a doctor and my sister is a nurse."
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Are you a student?",
+        "incorrectAnswers": [
+          "Yes, I are.",
+          "Yes, I'm.",
+          "Yes, I is."
+        ],
+        "correctAnswer": "Yes, I am."
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+          "This is my glasses over there.",
+          "These are my glasses over there.",
+          "That is my glasses over there."
+        ],
+        "correctAnswer": "Those are my glasses over there."
+      }
+    ] 
+}
+
